@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cqrsVerticalSlices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+521230f46597cf3f39e330a70e312b6317fd7ea0")]
 [assembly: System.Reflection.AssemblyProductAttribute("cqrsVerticalSlices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cqrsVerticalSlices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
