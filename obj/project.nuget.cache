@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AcH4ZOssM0pGTdCxYGk1kYHozlKcNkbnHq+e5UFku/i0w2kxcSCsLIuHRPAlWWEqfqjGbFxKZTSWmvXgFGziMA==",
+  "dgSpecHash": "5gwNXt5wsMjsctR5fr5tqGs70oAuEl2Tv53oY2NUF0NzdvEZ4NuTwHp0rABcv2OGxoebMkO794mbHHfsQk4DqA==",
   "success": true,
   "projectFilePath": "/Users/claudiugombos/work/_asp.netcore/cqrs_verticalslices/cqrsVerticalSlices/cqrsVerticalSlices.csproj",
   "expectedPackageFiles": [
